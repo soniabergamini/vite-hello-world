@@ -9,4 +9,8 @@
 
 <style scoped>
  /* CSS */
+    h1 {
+        color: #A87462;
+    }
+
 </style>
