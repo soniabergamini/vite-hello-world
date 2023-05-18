@@ -1,13 +1,15 @@
 <script>
 import Hello from './components/Hello.vue';
 import AppTitle from './components/AppTitle.vue';
-import AppHero from './components/AppHero.vue'
+import AppHero from './components/AppHero.vue';
+import Sign from './components/Sign.vue'
 
 export default {
   components: {
     Hello,
     AppTitle,
-    AppHero
+    AppHero,
+    Sign
   }
 }
 
@@ -21,6 +23,9 @@ export default {
       <AppHero />
     </section>
   </main>
+  <footer>
+    <Sign />
+  </footer>
 </template>
 
 <style scoped>

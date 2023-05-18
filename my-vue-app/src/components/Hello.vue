@@ -3,14 +3,12 @@
 </script>
 
 <template>
-    <!-- HTML -->
-    <h1>HELLO FROM MARS 👋</h1>
+    <h1>HELLO FROM MARS 🛸</h1>
 </template>
 
 <style scoped>
- /* CSS */
     h1 {
         color: #A87462;
+        padding-top: 4rem;
     }
-
 </style>

@@ -3,10 +3,11 @@
 </script>
 
 <template>
-    <!-- HTML -->
     <h3>La mia prima app con Vite! </h3>
 </template>
 
 <style scoped>
-/* CSS */
+h3 {
+    padding: 3rem;
+}
 </style>
