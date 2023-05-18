@@ -4,7 +4,7 @@
 
 <template>
     <!-- HTML -->
-    <h2>La mia prima app con Vite! </h2>
+    <h3>La mia prima app con Vite! </h3>
 </template>
 
 <style scoped>

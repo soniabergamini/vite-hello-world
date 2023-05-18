@@ -4,7 +4,7 @@
 
 <template>
     <!-- HTML -->
-    <h1>HELLO! 👋</h1>
+    <h1>HELLO FROM MARS 👋</h1>
 </template>
 
 <style scoped>

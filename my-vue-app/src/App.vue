@@ -1,21 +1,26 @@
 <script>
 import Hello from './components/Hello.vue';
-import AppTitle from './components/AppTitle.vue'
+import AppTitle from './components/AppTitle.vue';
+import AppHero from './components/AppHero.vue'
 
 export default {
   components: {
     Hello,
-    AppTitle
+    AppTitle,
+    AppHero
   }
 }
 
 </script>
 
 <template>
-  <header>
+  <main>
     <Hello />
     <AppTitle />
-  </header>
+    <section>
+      <AppHero />
+    </section>
+  </main>
 </template>
 
 <style scoped>
